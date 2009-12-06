@@ -161,7 +161,7 @@ function logger($type, $message="") {
 }
 
 
-function jsAlert($message) {
+function jsAlert($errorMessage) {
     echo '<script>alert("' . $errorMessage . '");</script>';
     exit;
 }
