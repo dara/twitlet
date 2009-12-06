@@ -1,10 +1,10 @@
 <?php
 
-//  TWITLET CORE FUNCTIONS
-//  
-//  Last edited by Dara Kilicoglu on 2009-12-05
-//  Copyright 2009 Dara Kilicoglu, Baris Gumustas + Ali Miharbi (Regexp)
-//  All rights reserved.
+// TWITLET CORE
+// http://www.twitlet.com
+// Copyright (c) 2009 D. Kilicoglu, B. Gumustas, A. Miharbi
+// Licenced under Creative Commons GNU GPL.
+// http://creativecommons.org/licenses/GPL/2.0/
 
 
 if ($_GET['u'] != '' && $_GET['p'] != '') {
